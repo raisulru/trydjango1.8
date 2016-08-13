@@ -1,0 +1,6 @@
+*.pyc
+--pycache--
+envtrydjango1.8
+db.sqlite3
+/static
+.DS_Store
